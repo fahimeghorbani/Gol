@@ -1,0 +1,17 @@
+body div.recipe {
+  width: 100%;
+  text-align: center;
+  display: flex;
+}
+body div.recipe > h3 {
+  font-family: yekan;
+  color: #ff0000;
+  margin: 0 auto;
+}
+body div.recipe > p {
+  font-family: yekan;
+  color: rgba(129, 133, 136, 0.7);
+  font-size: 17px;
+  margin: 0 auto;
+  margin-right: -50px;
+}
